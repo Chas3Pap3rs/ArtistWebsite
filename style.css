@@ -3,7 +3,6 @@ body {
   background-repeat: repeat-y;
   background-size: cover;
   background-attachment: scroll;
-  backdrop-filter: grayscale;
 }
 
 
@@ -18,11 +17,7 @@ body {
   "m m m c c c c c c c c c"
   "m m m c c c c c c c c c"
   "f f f f f f f f f f f f"
-  ;
-
-  /*rid-template: repeat(2, 50px) / repeat(3, 1fr);*/
-
-  
+  ; 
 }
 
 .header {
@@ -51,17 +46,6 @@ body {
   text-align: center;
 }
 
-.container > div {
-
-}
-
-.oswald-<uniquifier> {
-  font-family: "Oswald", sans-serif;
-  font-optical-sizing: auto;
-  font-weight: 850;
-  font-style: normal;
-}
-
 h1 {
   text-align: center;
   font-family: "Oswald", sans-serif;
@@ -72,7 +56,7 @@ h1 {
 
 h2 {
   font-family: "Oswald", sans-serif;
-  font-size: large 250px;
+  font-size: x-large;
   margin-top: 125px;
 }
 
