@@ -9,7 +9,7 @@ Overview/Description: This is meant to be a personal site for my music (and art,
 
 Functionality: You can use the nav buttons on the left-hand-side to navigate different pages. Home page is meant to have most recent info/releases. the Music page has an accordian with Latest Release, Singles, and Features sections; two of these sections have a carousel containg cover art with links to take any user to the currently available music on theirmajor streaming platform of choice (Spotify, Apple Music, and YouTube). Store coming soon!
 
-Technology Used: HTML, CSS, Bootstrap, & Google Fonts 
+Technology Used: HTML, CSS, Bootstrap, Google Fonts, Formspree.
 
 User Stories:
     1. User hears my music and wants to learn more about me, so they find my website (Navigate from home page to about me/story page)
@@ -23,5 +23,5 @@ Ideas for Future Improvement:
     2. Nav to change to dropdown Navbar on sm screen and below.
     3. Complete "Store" page with available merch.
     4. Form and ability to order and pay for real merchandise when available after store page is up and running. 
-    5. Include a carousel with pictures for the 'Story" page.
+    5. Include a carousel with pictures for the "Story" page.
     6. Put artist and label icons/logos on website.
