@@ -47,6 +47,7 @@ body {
   font-family: "Oswald", sans-serif;
   font-weight: 300;
   text-align: center;
+  margin-top: 100px;
 }
 
 h1 {
@@ -95,10 +96,6 @@ h6 {
 
 .accordian {
   --bs-accordion-color: rgba(255, 255, 255, .15); 
-}
-
-image {
-  
 }
 
 .image:hover {
